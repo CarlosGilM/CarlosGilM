@@ -1,16 +1,19 @@
-### Hi there 👋
+### Olá! Eu sou o Gil 
 
-<!--
-**CarlosGilM/CarlosGilM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨‍🎓 Atualmente curso Ciência da Computação na Uesb
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://github.com/CarlosGilM">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=CarlosGilM&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CarlosGilM&layout=compact&langs_count=7&theme=prussian"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  
+
+   <div style="display: inline_block"><br>
+    <img align="center" alt="CarlosGilM_Java" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+    <img align="center" alt="CarlosGilM_HTML" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="CarlosGilM_CSS" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="CarlosGilM_JS" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  </div>
+  
