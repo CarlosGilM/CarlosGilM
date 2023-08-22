@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Gil 
 
-- 👨‍🎓 Atualmente curso Ciência da Computação na Uesb
+- 👨‍🎓 Estudante de Ciência da Computação na Uesb
   
 ##
 
