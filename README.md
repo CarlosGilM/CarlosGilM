@@ -1,6 +1,8 @@
 ### Olá! Eu sou o Gil 
 
 - 👨‍🎓 Atualmente curso Ciência da Computação na Uesb
+  
+##
 
 <div align="center">
   <a href="https://github.com/CarlosGilM">
