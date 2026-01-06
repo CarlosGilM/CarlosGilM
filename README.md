@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back-end`**
 
-Me chamo Gil Martins, tenho 23 anos e atualmente, sou formado em Ciência da Computação pela UESB. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Larissa Kich](https://www.youtube.com/@larissakich)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
+Olá! 👋 Me chamo Gil Martins, tenho 23 anos e sou graduado em Ciência da Computação pela UESB. Atuo como Desenvolvedor de Software com foco em Backend. 
 
 <p align="left">
     <a href="https://github.com/CarlosGilM?tab=repositories&sort=stargazers">
