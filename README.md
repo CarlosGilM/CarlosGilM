@@ -12,7 +12,7 @@ Olá! 👋 Me chamo Gil Martins, tenho 23 anos e sou graduado em Ciência da Com
             src="https://custom-icon-badges.demolab.com/github/stars/CarlosGilM?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://github.com/CarlosGilM?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
