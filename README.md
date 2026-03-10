@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Gil Martins
 
-**`Desenvolvedor Back-end`**
+**`Desenvolvedor Full-Stack`**
 
 Olá! 👋 Me chamo Gil Martins, tenho 23 anos e sou graduado em Ciência da Computação pela UESB. Atuo como Desenvolvedor de Software com foco em Backend. 
 
@@ -125,21 +125,3 @@ Olá! 👋 Me chamo Gil Martins, tenho 23 anos e sou graduado em Ciência da Com
 <br/>
 <br/>
 
-### 📊 Estatísticas
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=CarlosGilM&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosGilM&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
