@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Full-Stack`**
 
-Olá! 👋 Me chamo Gil Martins, tenho 23 anos e sou graduado em Ciência da Computação pela UESB. Atuo como Desenvolvedor de Software com foco em Backend. 
+Olá! 👋 Me chamo Gil Martins, tenho 23 anos e sou graduado em Ciência da Computação pela UESB. Atuo como Desenvolvedor de Software com foco em Full-Stack. 
 
 <p align="left">
     <a href="https://github.com/CarlosGilM?tab=repositories&sort=stargazers">
